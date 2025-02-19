@@ -53,3 +53,7 @@ El objetivo de este taller es hacer que el carrusel que desarrolles se vea corre
 - [Guía de CSS](https://www.w3schools.com/css/)
 - [Guía de JavaScript](https://www.w3schools.com/js/)
 - [Guía de diseño web responsive](https://www.w3schools.com/html/html_responsive.asp)
+
+## url de el carrusel:
+https://dsaw-2025-i.github.io/dom-manipulation-juanfe7/
+
